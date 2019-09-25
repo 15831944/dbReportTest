@@ -1,0 +1,7 @@
+C:\Users\john.solom\source\repos\ClassLibrary4\ClassLibrary4\obj\Debug\rf1Report.csprojAssemblyReference.cache
+C:\Users\john.solom\source\repos\ClassLibrary4\ClassLibrary4\obj\Debug\rf1Report.csproj.CoreCompileInputs.cache
+C:\Users\john.solom\source\repos\ClassLibrary4\ClassLibrary4\bin\Debug\ClassLibrary4.dll
+C:\Users\john.solom\source\repos\ClassLibrary4\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+C:\Users\john.solom\source\repos\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.dll
+C:\Users\john.solom\source\repos\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.pdb
+C:\Users\john.solom\source\repos\ClassLibrary4\ClassLibrary4\bin\Debug\ClassLibrary4.dll.config
